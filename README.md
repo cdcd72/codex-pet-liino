@@ -58,5 +58,5 @@ Expand-Archive -Path "$env:TEMP/liino.codex-pet.zip" -DestinationPath "$HOME/.co
 - 本專案為《明日方舟：終末地》（Arknights: Endfield）的非官方同人二次創作，由個人基於興趣與粉絲活動製作，免費提供，**不得用於商業營利**。
 - 本專案屬於官方[《明日方舟：終末地》二創與發布相關活動指南](https://endfield.gryphline.com/zh-tw/news/4497)（2026/02/03 公告）所涵蓋的個人非營利二次創作範圍，並遵守其中的禁止事項：不冒充官方、不可能被誤認為官方商品或企劃、不含違法或損害角色形象的內容。
 - 該指南可能不另行通知而變更，若與官方最新公告有出入，以官方公告為準。
-- 角色「Liino」及其相關名稱、設定與原始美術素材，其著作權與商標權均歸原權利人（Gryph Frontier Pte. Ltd. 與其關係企業，品牌為 GRYPHLINE）所有。
+- 角色「梨諾（Liino）」及其相關名稱、設定與原始美術素材，其著作權與商標權均歸原權利人（Gryph Frontier Pte. Ltd. 與其關係企業，品牌為 GRYPHLINE）所有。
 - 本專案與上述公司沒有任何隸屬或合作關係；若權利人認為內容不妥，請聯繫作者，將立即處理。
